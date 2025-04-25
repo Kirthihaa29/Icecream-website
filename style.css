@@ -429,7 +429,7 @@ section{
 /* footer */
 
 .footer{
-    background: url(../images/footer.png);
+    background: url(footer.png);
     margin-top: 2rem;
     text-align: center;
 }
